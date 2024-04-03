@@ -1,0 +1,37 @@
+.contact {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .contact form {
+    margin: auto;
+    max-width: 400px;
+  }
+  
+  .contact label {
+    display: block;
+    margin: 10px 0;
+  }
+  
+  .contact input,
+  .contact textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #ccc;
+  }
+  
+  .contact button {
+    background-color: #5f9ea0; /* Aqua */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .contact button:hover {
+    background-color: #2e8b57; /* Seafoam Green */
+  }
+  
+  /* Add more contact page styles as needed */
+  

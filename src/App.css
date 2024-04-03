@@ -1,0 +1,14 @@
+body, html, #root, .App {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  main {
+    padding: 20px;
+    flex: 1;
+    overflow-y: auto; /* Adds scroll to main content only */
+  }
+  
+  /* Add more styles as needed */
+  

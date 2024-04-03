@@ -1,0 +1,29 @@
+.resume {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .resume a {
+    display: inline-block;
+    background-color: #5f9ea0; /* Aqua */
+    color: white;
+    padding: 10px 15px;
+    margin: 20px 0;
+    text-decoration: none;
+  }
+  
+  .resume a:hover {
+    background-color: #2e8b57; /* Seafoam Green */
+  }
+  
+  .resume ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .resume li {
+    margin: 10px 0;
+  }
+  
+  /* Add more resume page styles as needed */
+  

@@ -1,0 +1,14 @@
+.portfolio {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .portfolio .projects {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  /* Add more portfolio page styles as needed */
+  

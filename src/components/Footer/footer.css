@@ -1,0 +1,21 @@
+.footer {
+    background-color: #0fe63a; /* Aqua */
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .footer .social-links a {
+    color: #fff;
+    margin: 0 10px;
+    text-decoration: none;
+  }
+  
+  .footer .social-links a:hover {
+    color: #e422b3; /* Seafoam Green */
+  }
+  

@@ -1,0 +1,15 @@
+.about-me {
+    text-align: center;
+    padding: 50px;
+    color: #2e8b57; /* Seafoam Green */
+  }
+  
+  .about-me img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%;
+    margin-bottom: 20px;
+  }
+  
+  /* Add more about me styles as needed */
+  
